@@ -37,6 +37,7 @@ var rumours = [
 "You can trust a Gatesman. They pay them well, and move them between gates often enough that they can't get up to much badness even if they wanted to. Plus, they brand the odd enterprising one who still goes bad. Who wants to go through life branded? Not me!",
 "My sister-in-law's a Wall Watcher. Proper name for them that. They might as well be watching walls for all the excitement they see. Imagine spending the whole night just staring at the city from the wall, and they're the lucky ones. Their poor partner has to stare out instead! I bet they're the only ones who hope that the Huun come back soon so they've something interesting to look at!",
 "If you want information then go seek the Beggars in the Canal district. I'd swear some of them know everything that goes on in this city!",
+<<<<<<< Updated upstream
     "The Shadow Masks are such expert spies that you don't go to them when you need to hire a spy, they find out and they come to you!",
     "The Maiden's Cross Tavern in Turlin's Well is an odd one. Jenette, the owner, only hires women to work there, and I saw her arguing in the street with Bofred the High Priest of Thyr. She gave as good as she got, I'd have thought she was a Paladin herself if I didn't know better.",
     "'av you 'eard 'bout ta Saints o' Turlin's Well? Vigilantes, ye know? Crackin skulls and righten wrongs. Best ting t'happen to the Well in memory, I say. T'authorities don't care 'bout us little folk.",
@@ -65,4 +66,5 @@ var rumours = [
     "Something keeps attacking and killing Harold the Herder's animals, over in Stable Row. I'm sure he'd pay a fair price, or some good animals, if someone can put an end to that for him.",
     "My cousin's a Wall Watcher and he had to watch some poor fool be torn apart by some undead abomination out in Hel's Acre. He's a great archer, my cousin. Ended up putting that fool out of his misery with a well aimed arrow. It was a kindness, I'd say.",
     "I heard 7 gate guards tried to help some kid who wandered into Hel's Acre. The kid's dead now, and so are the guards of course.",
+"The Caretakers' Guild can help you dispose of unwanted bodies discretely, or even get bodies if that's your kind of thing.",
 ];
