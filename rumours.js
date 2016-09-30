@@ -37,7 +37,7 @@ var rumours = [
 "You can trust a Gatesman. They pay them well, and move them between gates often enough that they can't get up to much badness even if they wanted to. Plus, they brand the odd enterprising one who still goes bad. Who wants to go through life branded? Not me!",
 "My sister-in-law's a Wall Watcher. Proper name for them that. They might as well be watching walls for all the excitement they see. Imagine spending the whole night just staring at the city from the wall, and they're the lucky ones. Their poor partner has to stare out instead! I bet they're the only ones who hope that the Huun come back soon so they've something interesting to look at!",
 "If you want information then go seek the Beggars in the Canal district. I'd swear some of them know everything that goes on in this city!",
-    "The Shadow Masks are such expert spies that you don't go to them when you need to hire a spy, somehow they find out and they come to you!",
+    "The Shadow Masks are such expert spies that you don't go to them when you need to hire a spy, they find out and they come to you!",
     "The Maiden's Cross Tavern in Turlin's Well is an odd one. Jenette, the owner, only hires women to work there, and I saw her arguing in the street with Bofred the High Priest of Thyr. She gave as good as she got, I'd have thought she was a Paladin herself if I didn't know better.",
     "'av you 'eard 'bout ta Saints o' Turlin's Well? Vigilantes, ye know? Crackin skulls and righten wrongs. Best ting t'happen to the Well in memory, I say. T'authorities don't care 'bout us little folk.",
     "The Dog Soldiers are what passes for law and order over in Tent City. Don't bet on them being around when you need 'em, and if they are, they may just string up whoever their idea of frontier justice says is in the wrong.",
@@ -59,4 +59,8 @@ var rumours = [
     "Mama Bobo can see the future. She can look into your soul and know your fate. She even knew where my wedding ring was when I misplaced it in the Hall of Delights.",
     "Fort Rendezvous is a good place for drink and trade in Tent City. Colonel York is a OK type, but Colonel Portland is my kind of man. He's got no time for those filthy half-breed half-orcs or half-elves. He'll still take their coin but nobody's perfect, I say.",
     "Filini in tent city sells the most amazing rugs. They're to die for! You can't throw a party and expect guests to slum it standing on cold marble floors, oh no, dear, that wouldn't do at all! And the colours! Exquisite! Really, I must have some for my next soirée or everyone should think me terribly uncouth.",
+    "Keep away from the dirt track and the ponies out by Stable Row. I had a good business before some bad judgement and some bad bets lost it all for me.",
+    "If you need armor for your horse, or even your pet dog, then Porsis Gendarme at The Guardian Mount in Stable Row is your woman.",
+    "If it's riding horses you need then git on over to Stable Row. They got all kind o' horses. Just don't buy the stolen ones? How'd you know which ones are stolen? How'd the heck would I know?",
+    "Something keeps attacking and killing Harold the Herder's animals, over in Stable Row. I'm sure he'd pay a fair price, or some good animals, if someone can put an end to that for him.",
 ];
