@@ -49,7 +49,7 @@ var rumours = [
     "Bard's College is the intellectual core of the city. Bards, Magic Users, Poets, Artists, all that is elevates us above the beasts.",
     "Maestro Lauriann Danyr is more than just the chancellor of Bard's College. She's a clever politician too. Sharp, and wise, but she ain't nasty. The College is lucky to have her.",
     "It's sad what happened to Brelliar the Conjurer. He was a sharp as a tack, a great wizard and one of the good ones , you know. Then overnight he was as forgetful and confused as my poor old grand-pa in his final years. It's scary to think that dementia can come on as suddenly as that, I'd never thought it possible before. Maybe he dabbled with something that he shouldn't have.",
-    "If you want the truth in the city, and about the abuse the small folk take at the hands of the big folk then you should read 'The Underground'. It sells out of Underhill, but you can pick it up elsewhere too.',
+    "If you want the truth in the city, and about the abuse the small folk take at the hands of the big folk then you should read 'The Underground'. It sells out of Underhill, but you can pick it up elsewhere too.",
     "That mining magnate, Boleggo Deepdigger, is just getting stranger and stranger as the years go by. I don't think he's been outside of his home in a decade. Shame, all that wealth and he's as barmy as an owlbear from what I hear.",
     "They say that Thilo the Sighted over in the North Wall district is a gifted oracle. Maybe he can't see with his eyes, but I hear that he sees all that goes on.",
     "Andrigor might well be the most powerful Magic User in all of Bard's Gate. Cylyria has certainly benefited from his support. He chooses his apprentices carefully too; they've all turned out well. Wise man, that Andrigor.",
@@ -63,4 +63,6 @@ var rumours = [
     "If you need armor for your horse, or even your pet dog, then Porsis Gendarme at The Guardian Mount in Stable Row is your woman.",
     "If it's riding horses you need then git on over to Stable Row. They got all kind o' horses. Just don't buy the stolen ones? How'd you know which ones are stolen? How'd the heck would I know?",
     "Something keeps attacking and killing Harold the Herder's animals, over in Stable Row. I'm sure he'd pay a fair price, or some good animals, if someone can put an end to that for him.",
+    "My cousin's a Wall Watcher and he had to watch some poor fool be torn apart by some undead abomination out in Hel's Acre. He's a great archer, my cousin. Ended up putting that fool out of his misery with a well aimed arrow. It was a kindness, I'd say.",
+    "I heard 7 gate guards tried to help some kid who wandered into Hel's Acre. The kid's dead now, and so are the guards of course.",
 ];
