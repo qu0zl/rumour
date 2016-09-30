@@ -51,6 +51,12 @@ var rumours = [
     "It's sad what happened to Brelliar the Conjurer. He was a sharp as a tack, a great wizard and one of the good ones , you know. Then overnight he was as forgetful and confused as my poor old grand-pa in his final years. It's scary to think that dementia can come on as suddenly as that, I'd never thought it possible before. Maybe he dabbled with something that he shouldn't have.",
     "If you want the truth in the city, and about the abuse the small folk take at the hands of the big folk then you should read 'The Underground'. It sells out of Underhill, but you can pick it up elsewhere too.',
     "That mining magnate, Boleggo Deepdigger, is just getting stranger and stranger as the years go by. I don't think he's been outside of his home in a decade. Shame, all that wealth and he's as barmy as an owlbear from what I hear.",
-    "They say that Thilo the Sighted over in the North Wall district is a gifted oracle. Maybe he can't see with his eyes, but I hear that he sees all that goes on."
-
+    "They say that Thilo the Sighted over in the North Wall district is a gifted oracle. Maybe he can't see with his eyes, but I hear that he sees all that goes on.",
+    "Andrigor might well be the most powerful Magic User in all of Bard's Gate. Cylyria has certainly benefited from his support. He chooses his apprentices carefully too; they've all turned out well. Wise man, that Andrigor.",
+    "There's a Ghost that haunts the Mask and Lute theatre! Frightens the actors, disrupts the plays, nearly dropped a chandelier on some bystanders. Shocking!",
+    "The mercenary company, Blackfinger’s Devils, over in Tent City, is always looking for new hires. Denin Blackfinger doesn't throw his soldiers' lives away, which is unusual enough for a mercenary captain, I hear.",
+    "Asleif, the Tent City book-seller, is searching for a very special book. She's convinced it's somewhere in Bard's Gate. Her business may not look like much, but I know that she'd pay well for it.",
+    "Mama Bobo can see the future. She can look into your soul and know your fate. She even knew where my wedding ring was when I misplaced it in the Hall of Delights.",
+    "Fort Rendezvous is a good place for drink and trade in Tent City. Colonel York is a OK type, but Colonel Portland is my kind of man. He's got no time for those filthy half-breed half-orcs or half-elves. He'll still take their coin but nobody's perfect, I say.",
+    "Filini in tent city sells the most amazing rugs. They're to die for! You can't throw a party and expect guests to slum it standing on cold marble floors, oh no, dear, that wouldn't do at all! And the colours! Exquisite! Really, I must have some for my next soirée or everyone should think me terribly uncouth.",
 ];
