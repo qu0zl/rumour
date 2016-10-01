@@ -79,5 +79,5 @@ var rumours = [
 "I hear that there's vaults full to the top with gems and precious stones in the Gem Cutter and Jewelers Guildhall!",
 "Burgher Barik of the Stoneworker's Guild is looking to hire adventurers to inspect the Bard's Gate Mine. There's a Dragon in there, I can tell him that now for free!",
 "There ain't no entrances to the The Tower of High Incantations, but that don't stop those hoity-toity Wizard Guild inner circle weirdos. Who knows what weird depravity goes on in there?",
-Sleek John, in the Guild District, has great deals. How he manages to pay for the goods and the city taxes and still sell at those prices I just don't know. He can even get you some more unusual items and he don't ask no questions.",
+"Sleek John, in the Guild District, has great deals. How he manages to pay for the goods and the city taxes and still sell at those prices I just don't know. He can even get you some more unusual items and he don't ask no questions.",
 ];
