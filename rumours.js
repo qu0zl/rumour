@@ -66,4 +66,10 @@ var rumours = [
     "My cousin's a Wall Watcher and he had to watch some poor fool be torn apart by some undead abomination out in Hel's Acre. He's a great archer, my cousin. Ended up putting that fool out of his misery with a well aimed arrow. It was a kindness, I'd say.",
     "I heard 7 gate guards tried to help some kid who wandered into Hel's Acre. The kid's dead now, and so are the guards of course.",
 "The Caretakers' Guild can help you dispose of unwanted bodies discretely, or even get bodies if that's your kind of thing.",
+"I spent one night in the Inn of the Fallen Tree in the Thieves' Quarter when I arrived in town. One night, no more, no way. The stink of garlic out of that weird recluse's room, yuck! Just walking past his door made me retch.",
+"Mighty suspicious if you ask me. Why is that guy, Aaronic, bothering to run a school for orphans in the Thieves' Quarter? I don't get it. What's in it for him? What's his angle? Probably training himself an army of pick-pockets, I'd wager. It's a good idea, maybe I should open an orphanage too!",
+"You never heard this from me, but Fat Juliello Broad-Toe is a real parasite. He's all smiles and friendliness as long as you keep losing your money in the Fortune's Fool, and lose it you will if you go there!",
+"You know, Slip-Gallows Abbey and the whole of Rogues' Island is haunted. Nobody who goes there comes back, I heard. Word is that whatever wiped out the Gray Deacons turned them all into weird brain-sucking monstrous tentacled creatures! I don't care how much wealth those thieves had, it's not worth the risk!",
+"If you like whips and chains then Mistress Honeysuckle in the Cat o' Nine over in the Thieves' Quarter is your lady. She's magnificent! I just figured that might be your thing, you have the look, you know."
+
 ];
