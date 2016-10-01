@@ -70,6 +70,14 @@ var rumours = [
 "Mighty suspicious if you ask me. Why is that guy, Aaronic, bothering to run a school for orphans in the Thieves' Quarter? I don't get it. What's in it for him? What's his angle? Probably training himself an army of pick-pockets, I'd wager. It's a good idea, maybe I should open an orphanage too!",
 "You never heard this from me, but Fat Juliello Broad-Toe is a real parasite. He's all smiles and friendliness as long as you keep losing your money in the Fortune's Fool, and lose it you will if you go there!",
 "You know, Slip-Gallows Abbey and the whole of Rogues' Island is haunted. Nobody who goes there comes back, I heard. Word is that whatever wiped out the Gray Deacons turned them all into weird brain-sucking monstrous tentacled creatures! I don't care how much wealth those thieves had, it's not worth the risk!",
-"If you like whips and chains then Mistress Honeysuckle in the Cat o' Nine over in the Thieves' Quarter is your lady. She's magnificent! I just figured that might be your thing, you have the look, you know."
-
+"If you like whips and chains then Mistress Honeysuckle in the Cat o' Nine over in the Thieves' Quarter is your lady. She's magnificent! I just figured that might be your thing, you have the look, you know.",
+"Thayco Manslayer of The Keen Edge in the Guild District has taken to managing a bare-knuckle boxer! A brutish half-orc. Thayco's finally managed to combine his two loves - gambling and violence!",
+"Milago, over at The Woven String, is always looking for foolish adventuring types to get him the exotic materials he needs for his strings. He'd make a Bow string out of Dragon Gut if he could find some fool to source it for him!",
+"Darius Dougel of the Brain Pan crafts the finest helms in all of Bard's Gate",
+"Wareth Drumstrike of the Iron Standard is the finest shieldsmith in the whole city.",
+"Amaryllis Silverfeet is looking for adventurers to help her hunt a Black Dragon! She's famous for making fine armour out of their scales. I hear that all she ever takes it the Dragon Skin and she doesn't care about its horde. Artisans are truly strange.",
+"I hear that there's vaults full to the top with gems and precious stones in the Gem Cutter and Jewelers Guildhall!",
+"Burgher Barik of the Stoneworker's Guild is looking to hire adventurers to inspect the Bard's Gate Mine. There's a Dragon in there, I can tell him that now for free!",
+"There ain't no entrances to the The Tower of High Incantations, but that don't stop those hoity-toity Wizard Guild inner circle weirdos. Who knows what weird depravity goes on in there?",
+Sleek John, in the Guild District, has great deals. How he manages to pay for the goods and the city taxes and still sell at those prices I just don't know. He can even get you some more unusual items and he don't ask no questions.",
 ];
