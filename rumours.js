@@ -80,4 +80,13 @@ var rumours = [
 "Burgher Barik of the Stoneworker's Guild is looking to hire adventurers to inspect the Bard's Gate Mine. There's a Dragon in there, I can tell him that now for free!",
 "There ain't no entrances to the The Tower of High Incantations, but that don't stop those hoity-toity Wizard Guild inner circle weirdos. Who knows what weird depravity goes on in there?",
 "Sleek John, in the Guild District, has great deals. How he manages to pay for the goods and the city taxes and still sell at those prices I just don't know. He can even get you some more unusual items and he don't ask no questions.",
+    //Turlin's Well
+"They'll ink spells right into your skin at 'Eldritch Inks' in Turlin's Well. Crazy!",
+    "Poor Gustof Von Blaw (TW) spent a fortune on some exotic machine for scribing. All the way from Castorhage, I hear! Turns out it don't work so good though. The 'Lyre Valley Press' is probably in trouble.",
+    "The Wizard’s Familiar in Turlin's Well is where magical types like to kick back and relax. You couldn't pay me to go to that Inn, even if they'd let me in. They'd probably turn my poor old skin inside out!",
+    "The Aleman's Guild bar organises barrel races every month. Drunken fools racing ale barrels from West Sardinha Way bridge to Reyst Way bridge. It's a miracle nobody's died yet, I'd say",
+    "The plaza of Dark Pleasures always had a uncouth reputation after night fall, but now bodies are turning up in the bushes. That just ain't right. If you ever have trouble there, then the bouncers at the Aleman's Guild are probably your best hope of protection.",
+    "There's an old derelict warehouse, halfway up Landwehr Lane in the Well and piled high with rat's filth. I pass by it every morning on my way to work. Sometimes there's weird high pitched animal sounds coming from inside. No wonder nobody will buy it; you'd probably catch the plague soon as sniff the place.",
+
+
 ];
