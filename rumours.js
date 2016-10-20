@@ -7,7 +7,7 @@ var rumours = [
 "I do my drinking in 'The Pride of the March' tavern over in the Market District.  Sergeant Vassale doesn't allow spellcasters, or any other undersirable types, in. It's a place for honest, fighting men.",
 "Durst, owner of The Felled Ogre, killed an ogre with a single punch!",
 "Helman Hillman's bedded half the noble women of Bard's Gate, if you'd believe the rumours. Not bad for a half-ling. Sure he'd only come up to their waist!",
-"If you need any special documents, talk to Poldo at \"Poldo's Dyes and Pigments\". Tell him that you're looking to buy \"doppleganger ink\". You didn't hear that from though, clear?",
+"If you need any special documents, talk to Poldo at \"Poldo's Dyes and Pigments\". Tell him that you're looking to buy \"doppleganger ink\". You didn't hear that from me though, clear?",
 "The Inn of Six Candles is quite the finest establishment in all the Market District. Tell the concierge Charles that you're friends of mine and you're guaranteed the finest service.",
 "Strathian Silverspear and his Company of The Silver Spear, over at the Inn of Six Candles, are quite the finest group of adventurers that I have ever seen. They're high-class, not scruffy vagabonds like every other adventurer I've ever met!",
 "Lasker's kidney pies are to die for! It's a pity that the 'Pies and Puddings' only opens occassionally or I swear I'd eat his pies every day! Strange that his shop has no windows. You'd think a masterchef like that would be happy to let people watch his work!",
