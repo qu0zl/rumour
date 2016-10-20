@@ -19,6 +19,13 @@ var rumours = [
 "The Society of Arms is the place to hire a small army! It's the fighter's guildhall, over in the Market District.",
 "There's a haunted shop in the burnt part of the Market District! You can hear ghostly moans coming from it during the night. Maybe it's the ghosts of dead rats; it is an exterminator's shop by day after all.",
 "They've been working on fixing up that warehouse on the edge of the burnt part of the Market District for months. Doesn't look like they've made much progress to me. Some poor fool is being taken for a sucker by those work-men!",
+// Black Market
+"There's a whole hidden underground district somewhere west of the Stoneheart river, so I hear. All the scum of Bard's Gate know about it. The Burghers ought to do something! Maybe not Cylyria, she's a weakling, but Burgher Armitage, now he'd be the man to stop it!",
+"I heard there's a secret underground auction house where you can buy or sell anything, or anyone!",
+"Fusini and Umberto, the great masters, are livid. Some forger is flooding the market with imitations of their paintings, and the worst bit is that he's pretty much as good as they are!",
+"I overheard a halfling in the Inn of Six Candles telling a Dwarf that he could source forged coins, of any currency! He looked like he was trying to set up a business deal. I think he noticed me watching him, because they both got up and left straight away.",
+"Most of the taverns, even the supposedly respectable ones, buy alcohol of dubious providence. I used to run errands for Fliese Norbel, till I realised that the alocohol I was trading was probably stolen.",
+"If you can find him, Rocky Kleege, is the guy to go to to borrow large sums of money. At high interest. With really nasty repurcusions if you don't pay it back!",
 "Young children are going missing in the poorer parts of town; thieves' quarter, Turlin's Well and the Outer Quarter. Undersheriff Kotchko(K5) is desperate to stop it and he'll pay for information.",
 "Strange bandit attacks have plagued Tent City these past few weeks. Thick fog rolls in from the fields east of town, and screaming and death follows fast behind. Travellers and possessions have disappeared in the attacks. It's the gods punishing us for letting any scum who wish camp near our city, no offence meant to y'all.",
 "The dead don't sleep proper at night in the City of Ashes. Only a fool goes up there after dark.",
