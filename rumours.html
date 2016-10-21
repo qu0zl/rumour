@@ -15,6 +15,11 @@
         font-style:italic;
         font-size:small;
     }
+    .count {
+	margin-bottom:2em;
+        font-style:italic;
+        font-size:x-small;
+    }
     </style>
 
 </head>
@@ -23,6 +28,8 @@
     <h1 class='title'>Welcome to the Bard's Gate Rumour Mill.</h1>
     <h2 class='subtitle'>May Tsathogga infest with boils any Non-GMs who click below. In other words, beware spoilers!</h2>
 
+<div class="count">
+</div>
 <button class="top_button" id="generate">Generate a rumour</button>
 <div class="rumour">
 
@@ -45,6 +52,7 @@ function generate_rumour() {
 function onReady()
 {
     $('#generate').button().click(generate_rumour);
+    $('.count').html(rumours.length + " rumours available.");
 
 
 };
