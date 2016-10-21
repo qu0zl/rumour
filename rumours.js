@@ -178,5 +178,16 @@ var rumours = [
 "Forgemaster Gruden Greybeard at the temple of Dwerfater is organising an expedition to reclaim the Dwarves' lost homeland up on the ice plateau and to put the King Under the Glacier back on his rightful throne. You know any adventurin' dwarves who'd like to help?",
 "If you're willin' to sit through the service, you can get free beer and bread at the Temple of Pekko.",
 "My cousin works for the Caretakers' Guild. He picked up a couple of bodies from the shrine of Kamien the river Goddess, a couple of petty thieves who tried to rob the place. It was weird, he said they were all wrinkled and shrivelled, as if they'd spent the night underwater.",
+// Catacombs
+"The Pipe Cleaners is a good job for a brave halfling. Us halflings fit in the tunnels better, and you never know what valuable items you might stumble across down there. Finders keepers, I always say!",
+"Before they opened up the City of Ashes, they used to bury the rich in the catacombs under the Old Temple District. Miles and miles of narrow tunnels. Now you only get the Pipe Cleaners, Paladin patrols and assorted miscreants down there. Not a safe place to wander, I'd wager!",
+"The outer tunnels of the catacombs are used to get around by those who don't want to be seen on the streets.",
+"Those damn fool Pipe Cleaners tried using gelatinous cubes to clean the catacombs. Well, it might be cleaner now but it sure ain't any safer!",
+"It's the strangest thing. I thought I saw the most beautiful elven lady that I ever did see, down in the catacombs! Must have been my imagination, it was dark, and she was strangely dark too. None of the rest of the patrol saw anything. Could be an effect of my vow of chastity, I guess. Takes some getting used to, I'll tell you!",
+"Me and t'other Pipe Cleaners stumbled across a strange door in the north of the catacombs. Big and bronze it was, and with a carvin' of a noble knight standin' ontop a tomb coverin' it. Maybe 'tis the tomb of some great hero from long ago!",
+"There's heavy locked portcullises protecting some passageways down in the catacombs. Rusted shut they are. Whatever they're protecting musntn't a been disturbed in a very long time.",
+"Most o' the catacombs be dusty and parched, but our crew found a part that was damp, dank and stank o' the earth. Me and old Rog weren't havin' none of it. Young Dirk said there might be something of value and that he wasn't for turnin'. Ain't seen hide nor 'air of 'im since.",
+"Rats as big as a man, there is down in the catacombs and the sewers. Not all of them walk on four legs, and I ain't talking bout rats of the human persuasion.",
+"Ewa and Tessa at the 'Wicked Sisters' have a line on the absolute finest wines in all of Bard's Gate. They wouldn't tell me their supplier, but I aim to find out.",
 
 ];
