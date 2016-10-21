@@ -189,5 +189,12 @@ var rumours = [
 "Most o' the catacombs be dusty and parched, but our crew found a part that was damp, dank and stank o' the earth. Me and old Rog weren't havin' none of it. Young Dirk said there might be something of value and that he wasn't for turnin'. Ain't seen hide nor 'air of 'im since.",
 "Rats as big as a man, there is down in the catacombs and the sewers. Not all of them walk on four legs, and I ain't talking bout rats of the human persuasion.",
 "Ewa and Tessa at the 'Wicked Sisters' have a line on the absolute finest wines in all of Bard's Gate. They wouldn't tell me their supplier, but I aim to find out.",
-
+// Docks
+"The whole Docks district is walled off from the rest of the city. Helps make sure that no contraband gets into the city.",
+"You know how I can tell that City Docks Commissioner Langer Traeme is an honest man? Duloth Armitage can't stand him! Now there's a good sign, if ever there was one.",
+"The Wheelwright's guild representative, Theo is only in the Docks district to help them circumvent the Port Authority guards.",
+"Jaeger's pawn-shop seems to attract a lot of Wheelwright customers. Them and the desperate, but the Wheelwrights don't have the look of the desperate about them. More the look of those who cause desperation.",
+"If you want to win one of the Aleman's Guild's barrel-races then get yourself one of Ragh the half-orc's barrels. Raised by dwarves, he was. His barrels won't fail you and leave you drownin' in the middle of the east canal!",
+"Henderby Leesh, the city custom's officer hasn't been himself recently. He looks like he has the weight of the world on him.",
+"Teel’s Warehouse in the Dock's district. Look into it. That's all I'm sayin'",
 ];
