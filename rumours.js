@@ -38,7 +38,7 @@ var rumours = [
 "Sometimes you'll get away carrying weapons in the outer quarters, but try that near the keep, or anywhere sa-loo-bri-us and you'll see how much patience the guards have.",
 "There ain't much love lost between the Sheriffs and the Constables. The 'Brownies' don't get paid as well as those fancy Sheriffs. I guess walking the beat and solving crime ain't as imporant as serving warrants and holding prisoners. High Sheriff Topfer Brighteye's a good'un though, can't argue 'bout that.",
 "Seems a bit daft that the head of each guild gets the same vote in the Council of Burghers. Wheelwrights must must be ten times the size of the Alchemists' Guild, but Duloth Armitage still only gets a single vote. Don't seem quite right to me.",
-"The Wizard's Guilds' lead by the Dominion Arcance. The Dominion's supposed to be secret but the naivest country bumpkin knows that Velior, Andrigor and Manisool are part of it. You knew that, right?",
+"The Wizard's Guilds' lead by the Dominion Arcane. The Dominion's supposed to be secret but the naivest country bumpkin knows that Velior, Andrigor and Manisool are part of it. You knew that, right?",
 "Even the lowliest Magic User is welcome to join the Wizard's Guild. I hear they trade knowledge better left unknown. No good ever came of magic users, that's what my Pappy always said, and he should know, he married one.",
 "Something horrific happened to the old thieves' guild, 'The Grey Deacons' a decade past. They completely disappeared overnight. I'd wager they got on the wrong side of Duloth.",
 "The wheelwrights 'av got thousands of men, and thousands of cudgels. They can even bring trade to a stand-still. Sometimes I think they're the real power in this city.",
